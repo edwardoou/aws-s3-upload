@@ -23,4 +23,5 @@ const uploadFile = (fileName) => {
   });
 };
 
-uploadFile("foto.png");
+//uploadFile("earpod.png");
+uploadFile("samsung.jpg");
